@@ -15,7 +15,7 @@ problems that people have worked on for decades, centuries, or millenia, and
 thinking they are the first ones to see them. e.g. defending minority
 interests, international security, what does "fair" mean."_ — Joanna J Bryson
 
-In addition to technical standards and codes of conduct that have in their
+In addition to [technical standards](#standards) and [codes of ethics](#code-of-ethics) that have in their
 title explicitly terms related to artificial intelligence, this document
 mentions others that, either by being enforced by local laws and/or have
 been discussed for much longer, they still very relevant.
@@ -37,6 +37,11 @@ been discussed for much longer, they still very relevant.
 The following documents are used as a direct basis in [constitutions](https://en.wikipedia.org/wiki/List_of_national_constitutions)
 and laws throughout all<sup>[1](#f1)</sup> the countries on Earth.
 
+Protip:
+the main link posted here is for the English version, but all these documents
+have oficial translations for several languages. The most translated one
+is [UDHR with 500+ translations](https://www.ohchr.org/EN/UDHR/Pages/SearchByLang.aspx).
+
 | Region | Topic | Organization | Link |
 | --- | --- | --- | --- |
 | Worldwide <sup>[1](#f1)</sup> | Human Rights | United Nations | [Universal Declaration of Human Rights](https://www.ohchr.org/EN/UDHR/Pages/Language.aspx?LangID=eng) |
@@ -52,12 +57,31 @@ and laws throughout all<sup>[1](#f1)</sup> the countries on Earth.
 | [European Union](https://en.wikipedia.org/wiki/Member_state_of_the_European_Union) | Data Protection | [European Commission](https://ec.europa.eu/) | [General Data Protection Regulation (GDPR)](https://eugdpr.org/) |
 | _Undefined_ <sup>[3](#f3)</sup> | Human Rights | [Organisation of Islamic Cooperation](https://www.oic-oci.org/states/?lan=en) | Cairo Declaration on Human Rights in Islam, 1990 <sup>[3](#f3)</sup> |
 
+## Country
 
-## Other
+| Region | Topic | Organization | Link |
+| --- | --- | --- | --- |
+| China | Data Protection | Government of China | [信息安全技术 个人信息安全规范](https://www.tc260.org.cn/upload/2018-01-24/1516799764389090333.pdf) <sup>[gdpr-like](#gdpr-like)</sup> <br> _(via [csis.org](https://www.csis.org/analysis/chinas-emerging-data-privacy-system-and-gdpr))_|
+| Brazil | Data Protection | Government of Brazil | [Lei Geral de Proteção de Dados Pessoais (LGPDP)](http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm) <sup>[gdpr-eq](#gdpr-eq)</sup> |
+
+# Standards
+
+_Important note: this area will need significative time to catalog standards
+in a way that someone new could undestand more easily how these where developed._
+
+| Region | Topic | Organization | Link |
+| --- | --- | --- | --- |
+| Worldwide | _Multiple_ | IEEE | [Ethically Aligned Design](https://ethicsinaction.ieee.org/) <sup>[wip](#wip)</sup> |
+
+# Code of Ethics
 
 (...)
 
-## Science fiction
+# Other
+
+(...)
+
+# Science fiction
 
 The following references have a very limited application as practical standards
 and, therefore, are classified here as **science fiction**. They are explicitly
@@ -77,6 +101,14 @@ Ten Principles of Robot Law / Astro Boy series, see https://akikok012um1.wordpre
 -->
 
 # Footnotes
+
+- <b id="wip">wip</b>: These documents are (at least at time of inclusion here) 
+  "work in progress" or drafts and do not have at least their first version
+  finished and ready to be used.
+- <b id="gdpr-eq">like-gdpr</b>: These documents seems to be compatible to GDPR.
+- <b id="gdpr-like">like-gdpr</b>: These documents seems to have similarities to
+  GDPR (but maybe are not equivalent). It can be even more restrictive than
+  GDPR on how to handle personal data.
 
 - <b id="f1">1</b>: These treaties are followed by
 [Member states of the United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) (e.g near
