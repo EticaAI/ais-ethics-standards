@@ -2,9 +2,12 @@
 **[work-in-progress] Curated list of standards related to Ethics in Artificial
 Intelligence and Autonomous Systems (A/IS).**
 
-<!--
-Classified by region of the world and/or specialty
--->
+## Translations
+
+- English (English): [fititnt/ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)
+- Portuguese (Português): [fititnt/ais-ethics-standards-pt](https://github.com/fititnt/ais-ethics-standards-pt)
+
+---
 
 ## Worldwide
 
@@ -31,6 +34,28 @@ and laws throughout all<sup>[1](#f1)</sup> the countries on Earth.
 
 
 ## Other
+
+(...)
+
+## Science fiction
+
+The following references have a very limited application as practical standards
+and, therefore, are classified here as **science fiction**. They are explicitly
+listed because they are popular and as a way to encourage people to understand
+that there is a difference between them and others.
+
+TL;DR: **do not use these references for non-fiction**, or at least educate the
+audience of it's limitations.
+
+| Region | Topic | Organization | Link |
+| --- | --- | --- | --- |
+| _"Science fiction"_ | Roboethics | [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov) | [Three Laws of Robotics (Asimov's Laws)](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics) |
+| _"Science fiction"_ | Roboethics | [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) | Ten Principles of Robot Law / Astro Boy series |
+
+<!--
+Ten Principles of Robot Law / Astro Boy series, see https://akikok012um1.wordpress.com/japans-ten-principles-of-robot-law/
+-->
+
 
 ## Footnotes
 
