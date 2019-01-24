@@ -8,11 +8,25 @@ _See also:
 [ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) |
 ais-ethics-standards_
 
+## About
+
+> _"As we keep improving AI, AI researchers start running into standard human
+problems that people have worked on for decades, centuries, or millenia, and
+thinking they are the first ones to see them. e.g. defending minority
+interests, international security, what does "fair" mean."_ — Joanna J Bryson
+
+In addition to technical standards and codes of conduct that have in their
+title explicitly terms related to artificial intelligence, this document
+mentions others that, either by being enforced by local laws and/or have
+been discussed for much longer, they still very relevant.
+
+<!--
 ## Translations
 
 - English (English): [fititnt/ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)
 - Portuguese (Português): [fititnt/ais-ethics-standards-pt](https://github.com/fititnt/ais-ethics-standards-pt)
 
+-->
 ---
 
 # Enforced by law
