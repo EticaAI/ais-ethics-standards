@@ -2,6 +2,12 @@
 **[work-in-progress] Curated list of standards related to Ethics in Artificial
 Intelligence and Autonomous Systems (A/IS).**
 
+_See also:
+[ais-ethics](https://github.com/fititnt/ais-ethics) |
+[ais-ethics-groups](https://github.com/fititnt/ais-ethics-groups) |
+[ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) |
+ais-ethics-standards_
+
 ## Translations
 
 - English (English): [fititnt/ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)
@@ -9,9 +15,10 @@ Intelligence and Autonomous Systems (A/IS).**
 
 ---
 
-## Worldwide
+# Enforced by law
+<!-- Standards enforced by law -->
 
-### Enforced by law
+## Worldwide
 
 The following documents are used as a direct basis in [constitutions](https://en.wikipedia.org/wiki/List_of_national_constitutions)
 and laws throughout all<sup>[1](#f1)</sup> the countries on Earth.
@@ -25,7 +32,6 @@ and laws throughout all<sup>[1](#f1)</sup> the countries on Earth.
 | Worldwide <sup>[1](#f1)</sup> | Human Rights | United Nations | [International Convention on the Elimination of All Forms of Racial Discrimination](http://www.ohchr.org/Documents/ProfessionalInterest/cescr.pdf) |
 
 ## Group of countries
-### Enforced by law
 
 | Region | Topic | Organization | Link |
 | --- | --- | --- | --- |
@@ -56,8 +62,7 @@ audience of it's limitations.
 Ten Principles of Robot Law / Astro Boy series, see https://akikok012um1.wordpress.com/japans-ten-principles-of-robot-law/
 -->
 
-
-## Footnotes
+# Footnotes
 
 - <b id="f1">1</b>: These treaties are followed by
 [Member states of the United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) (e.g near
@@ -95,7 +100,27 @@ https://www.csis.org/analysis/new-china-data-privacy-standard-looks-more-far-rea
 <b id="f1">1</b> Footnote content here. [↩](#a1)
 -->
 
-## License
+
+# Contributions
+To discuss suggestions and criticisms, you can:
+
+- [Open a issue](https://help.github.com/articles/creating-an-issue/)
+- [Make a Pull request](https://help.github.com/articles/about-pull-requests/)
+- Talk via e-mail:
+  - with the maintainer: Emerson Rocha <rocha@ieee.org>.
+
+<!--
+Note: this work is under [Public Domain](UNLICENSE), so translations &
+adaptations are OK.
+-->
+
+# License
+
+<!--
+  NOTE: You, as translator or as creator of a derivated work can change the
+        License to something different from Public Domain or even remove
+        the name from Emerson Rocha.
+-->
 
 [![Public Domain](https://i.creativecommons.org/p/zero/1.0/88x31.png)](UNLICENSE)
 
