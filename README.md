@@ -32,7 +32,7 @@ and laws throughout all<sup>[1](#f1)</sup> the countries on Earth.
 
 ## Other
 
-# Footnotes
+## Footnotes
 
 - <b id="f1">1</b>: These treaties are followed by
 [Member states of the United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) (e.g near
@@ -59,8 +59,21 @@ http://ww1.oic-oci.org/english/convenion/Rights%20of%20the%20Child%20In%20Islam%
 http://ww1.oic-oci.org/english/convenion/Statue_of_the_oic_women_development_org_en.pdf
 ->
 
+<!--
+https://www.csis.org/analysis/new-china-data-privacy-standard-looks-more-far-reaching-gdpr
+
+-->
+
 
 <!--
 <sup id="a1">[1](#f1)</sup>
 <b id="f1">1</b> Footnote content here. [↩](#a1)
 -->
+
+## License
+
+[![Public Domain](https://i.creativecommons.org/p/zero/1.0/88x31.png)](UNLICENSE)
+
+To the extent possible under law, [Emerson Rocha](https://github.com/fititnt)
+has waived all copyright and related or neighboring rights to this work to
+[Public Domain](UNLICENSE).
