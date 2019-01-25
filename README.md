@@ -4,21 +4,30 @@ Intelligence and Autonomous Systems (A/IS).**
 
 _See also:
 [ais-ethics](https://github.com/fititnt/ais-ethics) |
-[ais-ethics-groups](https://github.com/fititnt/ais-ethics-groups) |
+[ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups) |
 [ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) |
 ais-ethics-standards_
 
-## About
+---
 
 > _"As we keep improving AI, AI researchers start running into standard human
 problems that people have worked on for decades, centuries, or millenia, and
 thinking they are the first ones to see them. e.g. defending minority
 interests, international security, what does "fair" mean."_ — Joanna J Bryson
 
-In addition to [technical standards](#standards) and [codes of ethics](#code-of-ethics) that have in their
-title explicitly terms related to artificial intelligence, this document
-mentions others that, either by being enforced by local laws and/or have
-been discussed for much longer, they still very relevant.
+In addition to [technical standards](#standards) that focus
+explicitly in terms related to artificial intelligence, this document
+mentions others that, either by being enforced by regional laws and/or have
+been discussed for much longer in a more specific knowledge area of the
+A/IS of your interest, are very relevant.
+
+<!--
+Some very quick tips:
+
+**aaaa**: aaaaa.
+
+**bbb**: asdasdasd
+-->
 
 <!--
 ## Translations
@@ -42,7 +51,7 @@ the main link posted here is for the English version, but all these documents
 have oficial translations for several languages. The most translated one
 is [UDHR with 500+ translations](https://www.ohchr.org/EN/UDHR/Pages/SearchByLang.aspx).
 
-| Region | Topic | Organization | Link |
+| Region | Topic | Organization | Document |
 | --- | --- | --- | --- |
 | Worldwide <sup>[1](#f1)</sup> | Human Rights | United Nations | [Universal Declaration of Human Rights](https://www.ohchr.org/EN/UDHR/Pages/Language.aspx?LangID=eng) |
 | Worldwide <sup>[1](#f1)</sup> | Human Rights | United Nations | [International Covenant on Civil and Political Rights, 1966](https://www.ohchr.org/Documents/ProfessionalInterest/ccpr.pdf) |
@@ -52,14 +61,14 @@ is [UDHR with 500+ translations](https://www.ohchr.org/EN/UDHR/Pages/SearchByLan
 
 ## Group of countries
 
-| Region | Topic | Organization | Link |
+| Region | Topic | Organization | Document |
 | --- | --- | --- | --- |
 | [European Union](https://en.wikipedia.org/wiki/Member_state_of_the_European_Union) | Data Protection | [European Commission](https://ec.europa.eu/) | [General Data Protection Regulation (GDPR)](https://eugdpr.org/) |
 | _Undefined_ <sup>[3](#f3)</sup> | Human Rights | [Organisation of Islamic Cooperation](https://www.oic-oci.org/states/?lan=en) | Cairo Declaration on Human Rights in Islam, 1990 <sup>[3](#f3)</sup> |
 
 ## Country
 
-| Region | Topic | Organization | Link |
+| Region | Topic | Organization | Document |
 | --- | --- | --- | --- |
 | China | Data Protection | Government of China | [信息安全技术 个人信息安全规范](https://www.tc260.org.cn/upload/2018-01-24/1516799764389090333.pdf) <sup>[gdpr-like](#gdpr-like)</sup> <br> _(via [csis.org](https://www.csis.org/analysis/chinas-emerging-data-privacy-system-and-gdpr))_|
 | Brazil | Data Protection | Government of Brazil | [Lei Geral de Proteção de Dados Pessoais (LGPDP)](http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm) <sup>[gdpr-eq](#gdpr-eq)</sup> |
@@ -69,17 +78,35 @@ is [UDHR with 500+ translations](https://www.ohchr.org/EN/UDHR/Pages/SearchByLan
 _Important note: this area will need significative time to catalog standards
 in a way that someone new could undestand more easily how these where developed._
 
-| Region | Topic | Organization | Link |
+| Region | Topic | Organization | Document |
 | --- | --- | --- | --- |
 | Worldwide | _Multiple_ | IEEE | [Ethically Aligned Design](https://ethicsinaction.ieee.org/) <sup>[wip](#wip)</sup> |
 
 # Code of Ethics
+This area contains code of ethics, <strong id="code-of-conduct">code of conduct</strong> and <strong id="principles">principles</strong>.
+In short, they serve as moral codes. They can restrict what you or your A/IS
+could do beyond what is enforceable by regional laws.
+
+## Professional
 
 (...)
+
+## Companies
+These documents can serve as a public commitment as a company its employees
+should act, but can be written in a way that inspires others out of such a
+company to follow such recommendations.
+
+| Company | Link |
+| --- | --- |
+| Google | [Responsible AI Practices](https://ai.google/education/responsible-ai-practices)
 
 # Other
 
-(...)
+_TODO: these links need better classification on this document_
+
+| Organization | Document |
+| --- | --- |
+| [Future Of Life](https://futureoflife.org/team/) | [Asilomar AI Principles](https://futureoflife.org/ai-principles/) |
 
 # Science fiction
 
@@ -91,7 +118,7 @@ that there is a difference between them and others.
 TL;DR: **do not use these references for non-fiction**, or at least educate the
 audience of it's limitations.
 
-| Region | Topic | Organization | Link |
+| Region | Topic | Organization | Document |
 | --- | --- | --- | --- |
 | _"Science fiction"_ | Roboethics | [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov) | [Three Laws of Robotics (Asimov's Laws)](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics) |
 | _"Science fiction"_ | Roboethics | [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) | Ten Principles of Robot Law / Astro Boy series |
