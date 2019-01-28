@@ -1,23 +1,32 @@
-# ais-ethics-standards
-**[work-in-progress] Curated list of standards related to Ethics of Autonomous
+# A/IS Standards
+
+![Banner: Standards related to Ethics of Autonomous and Intelligent Systems (A/IS)](banner.png)
+
+[![Standards Total](badges/standards-total.svg)](#standards) [![Sandards Worldwide](badges/standards-worldwide.svg)](#standards)
+[![Laws](badges/laws-total.svg)](#laws) [![International Law](badges/international-law.svg)](#international-law)  [![Transnational Law](badges/transnational-law.svg)](#transnational-law)  [![National Law](badges/national-law.svg)](#national-law)
+[![Other](badges/other-total.svg)](#other)
+
+_**See also:
+[ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups) |
+[ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) |
+ais-ethics-standards**_
+
+---
+
+![Work in Progress](badges/status-work-in-progress.svg)  **Curated list of standards related to Ethics of Autonomous
 and Intelligent Systems (A/IS).** AI Ethics, Algorithmic Bias, Ethics of
 Automation, Existential Risks, Friendly Artificial Intelligence, Future of
 Work, Human Rights, Information Ethics, Machine Ethics, Philosophy of AI,
 Privacy, Roboethics, Robot Rights...
 
-![Banner: Standards related to Ethics of Autonomous and Intelligent Systems (A/IS)](banner.png)
-
-_See also:
-[ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups) |
-[ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) |
-ais-ethics-standards_
-
+<!--
 ---
 
 **TL;DR: if you are impatient, the documents you want with "everything" are on
 [standards section](#standards) of this document.**
 
 ---
+-->
 
 > _"As we keep improving AI, AI researchers start running into standard human
 problems that people have worked on for decades, centuries, or millenia, and
@@ -46,10 +55,10 @@ Some very quick tips:
 -->
 ---
 
-# Enforced by law
+# Laws
 <!-- Standards enforced by law -->
 
-## Worldwide
+## International Law
 
 The following documents are used as a direct basis in [constitutions](https://en.wikipedia.org/wiki/List_of_national_constitutions)
 and laws throughout all<sup>[1](#f1)</sup> the countries on Earth.
@@ -67,14 +76,14 @@ is [UDHR with 500+ translations](https://www.ohchr.org/EN/UDHR/Pages/SearchByLan
 | Worldwide <sup>[1](#f1)</sup> <sup id="a2">[2](#f2)</sup> | Human Rights | United Nations | [Convention on the Elimination of All Forms of Discrimination against Women, 1979](http://www.un.org/womenwatch/daw/cedaw/cedaw.htm) |
 | Worldwide <sup>[1](#f1)</sup> | Human Rights | United Nations | [International Convention on the Elimination of All Forms of Racial Discrimination](http://www.ohchr.org/Documents/ProfessionalInterest/cescr.pdf) |
 
-## Group of countries
+## Transnational Law
 
 | Region | Topic | Organization | Document |
 | --- | --- | --- | --- |
 | [European Union](https://en.wikipedia.org/wiki/Member_state_of_the_European_Union) | Data Protection | [European Commission](https://ec.europa.eu/) | [General Data Protection Regulation (GDPR)](https://eugdpr.org/) |
 | _Undefined_ <sup>[3](#f3)</sup> | Human Rights | [Organisation of Islamic Cooperation](https://www.oic-oci.org/states/?lan=en) | Cairo Declaration on Human Rights in Islam, 1990 <sup>[3](#f3)</sup> |
 
-## Country
+## National Law
 
 | Region | Topic | Organization | Document |
 | --- | --- | --- | --- |
