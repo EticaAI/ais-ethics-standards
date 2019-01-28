@@ -1,12 +1,21 @@
 # ais-ethics-standards
-**[work-in-progress] Curated list of standards related to Ethics in Artificial
-Intelligence and Autonomous Systems (A/IS).**
+**[work-in-progress] Curated list of standards related to Ethics of Autonomous
+and Intelligent Systems (A/IS).** AI Ethics, Algorithmic Bias, Ethics of
+Automation, Existential Risks, Friendly Artificial Intelligence, Future of
+Work, Human Rights, Information Ethics, Machine Ethics, Philosophy of AI,
+Privacy, Roboethics, Robot Rights...
+
+![Banner: Standards related to Ethics of Autonomous and Intelligent Systems (A/IS)](banner.png)
 
 _See also:
-[ais-ethics](https://github.com/fititnt/ais-ethics) |
 [ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups) |
 [ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) |
 ais-ethics-standards_
+
+---
+
+**TL;DR: if you are impatient, the documents you want with "everything" are on
+[standards section](#standards) of this document.**
 
 ---
 
@@ -15,11 +24,10 @@ problems that people have worked on for decades, centuries, or millenia, and
 thinking they are the first ones to see them. e.g. defending minority
 interests, international security, what does "fair" mean."_ — Joanna J Bryson
 
-In addition to [technical standards](#standards) that focus
-explicitly in terms related to artificial intelligence, this document
-mentions others that, either by being enforced by regional laws and/or have
-been discussed for much longer in a more specific knowledge area of the
-A/IS of your interest, are very relevant.
+In addition to [technical standards](#standards) that focus explicitly in terms
+related to A/IS Ethics, this document mentions others that, either by being
+enforced by regional laws and/or have been discussed for much longer in a more
+specific knowledge area of the A/IS of your interest, are very relevant.
 
 <!--
 Some very quick tips:
@@ -80,7 +88,7 @@ in a way that someone new could undestand more easily how these where developed.
 
 | Region | Topic | Organization | Document |
 | --- | --- | --- | --- |
-| Worldwide | _Multiple_ | IEEE | [Ethically Aligned Design](https://ethicsinaction.ieee.org/) <sup>[wip](#wip)</sup> |
+| Worldwide | _Multiple_ | [The IEEE Global Initiative](https://ethicsinaction.ieee.org/) | [Ethically Aligned Design](https://standards.ieee.org/industry-connections/ec/auto-sys-form.html) <sup>[wip](#wip)</sup> |
 
 # Code of Ethics
 This area contains code of ethics, <strong id="code-of-conduct">code of conduct</strong> and <strong id="principles">principles</strong>.
