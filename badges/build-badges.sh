@@ -20,4 +20,4 @@ python -m pybadges --left-text='National Law' --right-text='2' --right-color='#2
 python -m pybadges --left-text='Other' --right-text='1' --right-color='#9400D3' > other-total.svg
 
 # Extra badges
-python -m pybadges --left-text='Status' --right-text='Working in progress' --right-color='#FF773D' > status-work-in-progress.svg
+python -m pybadges --left-text='Status' --right-text='Work in progress' --right-color='#FF773D' > status-work-in-progress.svg

@@ -1,10 +1,10 @@
-# A/IS Standards
+# A/IS Ethics Standards
 
 ![Banner: Standards related to Ethics of Autonomous and Intelligent Systems (A/IS)](banner.png)
 
-[![Standards Total](badges/standards-total.svg)](#standards) [![Sandards Worldwide](badges/standards-worldwide.svg)](#standards)
-[![Laws](badges/laws-total.svg)](#laws) [![International Law](badges/international-law.svg)](#international-law)  [![Transnational Law](badges/transnational-law.svg)](#transnational-law)  [![National Law](badges/national-law.svg)](#national-law)
-[![Other](badges/other-total.svg)](#other)
+- [![Standards Total](badges/standards-total.svg)](#standards) [![Sandards Worldwide](badges/standards-worldwide.svg)](#standards)
+- [![Laws](badges/laws-total.svg)](#laws) [![International Law](badges/international-law.svg)](#international-law)  [![Transnational Law](badges/transnational-law.svg)](#transnational-law)  [![National Law](badges/national-law.svg)](#national-law)
+- [![Other](badges/other-total.svg)](#other)
 
 _**See also:
 [ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups) |
@@ -107,6 +107,18 @@ could do beyond what is enforceable by regional laws.
 ## Professional
 
 (...)
+
+<!--
+### Brazil
+
+#### Médico
+- https://pt.wikipedia.org/wiki/Juramento_de_Hip%C3%B3crates
+- http://portal.cfm.org.br/index.php?option=com_content&view=category&id=9&Itemid=122
+
+#### Bombeiro Civil
+- http://portal.cnbc.org.br/component/jdownloads/send/14-normas/33-nn-cnbc-01-2012
+
+-->
 
 ## Companies
 These documents can serve as a public commitment as a company its employees
