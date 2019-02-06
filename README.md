@@ -77,6 +77,12 @@ is [UDHR with 500+ translations](https://www.ohchr.org/EN/UDHR/Pages/SearchByLan
 | Worldwide <sup>[1](#f1)</sup> | Human Rights | United Nations | [International Convention on the Elimination of All Forms of Racial Discrimination](http://www.ohchr.org/Documents/ProfessionalInterest/cescr.pdf) |
 
 ## Transnational Law
+The following documents are used by a group of countries and should be
+considered in A/IS implementations in the respective regions.
+
+> Note that under certain circumstances, such as processing and storing
+personally identifiable information (PII) from citizens of such regions, they
+may influence A/IS implementations in other regions.
 
 | Region | Topic | Organization | Document |
 | --- | --- | --- | --- |
@@ -84,6 +90,12 @@ is [UDHR with 500+ translations](https://www.ohchr.org/EN/UDHR/Pages/SearchByLan
 | _Undefined_ <sup>[3](#f3)</sup> | Human Rights | [Organisation of Islamic Cooperation](https://www.oic-oci.org/states/?lan=en) | Cairo Declaration on Human Rights in Islam, 1990 <sup>[3](#f3)</sup> |
 
 ## National Law
+The following documents are used by a a country and should be
+considered in A/IS implementations in the respective regions.
+
+> Note that under certain circumstances, such as processing and storing
+personally identifiable information (PII) from citizens of such regions, they
+may influence A/IS implementations in other regions.
 
 | Region | Topic | Organization | Document |
 | --- | --- | --- | --- |
@@ -114,6 +126,7 @@ could do beyond what is enforceable by regional laws.
 #### Médico
 - https://pt.wikipedia.org/wiki/Juramento_de_Hip%C3%B3crates
 - http://portal.cfm.org.br/index.php?option=com_content&view=category&id=9&Itemid=122
+- https://portal.cfm.org.br/images/stories/biblioteca/codigo%20de%20etica%20medica.pdf
 
 #### Bombeiro Civil
 - http://portal.cnbc.org.br/component/jdownloads/send/14-normas/33-nn-cnbc-01-2012
