@@ -138,9 +138,21 @@ These documents can serve as a public commitment as a company its employees
 should act, but can be written in a way that inspires others out of such a
 company to follow such recommendations.
 
-| Company | Link |
+> Note: this section will need some clean up. And maybe even move to a different
+repository (fititnt, 2019-02-06 06:36 BRST)
+
+| Company | Links |
 | --- | --- |
-| Google | [Responsible AI Practices](https://ai.google/education/responsible-ai-practices)
+| Apple | 1) [Privacy](https://www.apple.com/privacy/); 2) [Supplier Responsibility](https://www.apple.com/supplier-responsibility/); 3) [Transparency Report (Government Requests)](https://www.apple.com/legal/transparency/); ...|
+| Facebook | 1) **[Facebook Principles](https://www.facebook.com/principles.php)**; 2) [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/)  |
+| Google | **[Responsible AI Practices](https://ai.google/education/responsible-ai-practices)** |
+| IBM | **[IBM Policies & Principles](https://www.ibm.com/ibm/responsibility/ibm_policies.html)** |
+| Microsoft | **[Microsoft AI principles](https://www.microsoft.com/en-us/ai/our-approach-to-ai)** <!-- https://www.microsoft.com/en-us/corporate-responsibility/lerr--> |
+
+<!--
+http://usa.baidu.com/privacy/
+-->
+
 
 # Other
 
