@@ -7,9 +7,10 @@
 - [![Other](badges/other-total.svg)](#other)
 
 _**See also:
-[ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups) |
-[ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) |
-ais-ethics-standards**_
+[ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups) \|
+[ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) \|
+ais-ethics-standards \|
+[codigo-de-etica-brasil <sup>(portuguese)</sup>](https://github.com/fititnt/codigo-de-etica-brasil)**_
 
 ---
 
@@ -76,6 +77,27 @@ is [UDHR with 500+ translations](https://www.ohchr.org/EN/UDHR/Pages/SearchByLan
 | Worldwide <sup>[1](#f1)</sup> <sup id="a2">[2](#f2)</sup> | Human Rights | United Nations | [Convention on the Elimination of All Forms of Discrimination against Women, 1979](http://www.un.org/womenwatch/daw/cedaw/cedaw.htm) |
 | Worldwide <sup>[1](#f1)</sup> | Human Rights | United Nations | [International Convention on the Elimination of All Forms of Racial Discrimination](http://www.ohchr.org/Documents/ProfessionalInterest/cescr.pdf) |
 
+<!--
+### Wartime
+> Important note 1: the documents cited on this sections do not apply to
+> domestic law enforcement.
+>
+> Contextual note: ...
+
+When a country declare war to another country, some rules can be even stricter
+than what domestic laws on countries allows to be used against
+-->
+
+<!--
+- https://en.wikipedia.org/wiki/Geneva_Conventions
+- https://en.wikipedia.org/wiki/Hague_Conventions_of_1899_and_1907
+- https://slate.com/news-and-politics/2010/02/why-isn-t-tear-gas-illegal-it-s-a-chemical-weapon-isn-t-it.html
+- https://www.hg.org/legal-articles/when-does-the-geneva-convention-apply-31520
+- https://news.vice.com/en_us/article/kzg9dx/why-the-united-states-doesnt-declare-war-anymore
+- https://www.diakonia.se/en/IHL/The-Law/International-Humanitarian-Law-1/Introduction-to-IHL/International-Humanitarian-Law/
+
+-->
+
 ## Transnational Law
 The following documents are used by a group of countries and should be
 considered in A/IS implementations in the respective regions.
@@ -109,7 +131,7 @@ in a way that someone new could undestand more easily how these where developed.
 
 | Region | Topic | Organization | Document |
 | --- | --- | --- | --- |
-| Worldwide | _Multiple_ | [The IEEE Global Initiative](https://ethicsinaction.ieee.org/) | [Ethically Aligned Design](https://standards.ieee.org/industry-connections/ec/auto-sys-form.html) <sup>[wip](#wip)</sup> |
+| Worldwide | _Multiple_ | [The IEEE Global Initiative](https://ethicsinaction.ieee.org/) | [Ethically Aligned Design, First Edition](https://standards.ieee.org/industry-connections/ec/autonomous-systems.html) |
 
 # Code of Ethics
 This area contains code of ethics, <strong id="code-of-conduct">code of conduct</strong> and <strong id="principles">principles</strong>.
@@ -118,7 +140,16 @@ could do beyond what is enforceable by regional laws.
 
 ## Professional
 
-(...)
+### Brazil
+
+- [Lista de Códigos de Ética usados no Brasil <sup>portuguese</sup>](https://github.com/fititnt/codigo-de-etica-brasil)
+
+<!--
+
+- https://en.wikipedia.org/wiki/Professional_conduct
+- https://en.wikipedia.org/wiki/Professional_ethics
+- https://en.wikipedia.org/wiki/Hippocratic_Oath
+-->
 
 <!--
 ### Brazil
@@ -151,6 +182,13 @@ repository (fititnt, 2019-02-06 06:36 BRST)
 
 <!--
 http://usa.baidu.com/privacy/
+https://www.apple.com/privacy/approach-to-privacy/
+https://www.telefonica.com/en/web/responsible-business/our-commitments/ai-principles
+https://news.sap.com/2018/09/sap-guiding-principles-for-artificial-intelligence/
+
+IBM:
+  - https://www.ibm.com/blogs/policy/trust-principles/
+  - https://twitter.com/IBMpolicy
 -->
 
 
